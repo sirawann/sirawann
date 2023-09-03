@@ -9,7 +9,7 @@
 <ul>
   <li><strong><i>Golang</i></strong></li>
   <ul>
-    <li>⚡Go Fiber(still learinig)</li>
+    <li>⚡Go Fiber(still learnig)</li>
     <li>⚡Echo</li>
   </ul>
   <li><strong><i>Javascript/Node.js</i></strong></li>
