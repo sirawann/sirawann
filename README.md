@@ -7,9 +7,9 @@
 
 <h2>📑 <i>Familiar with</i></h2>
 <ul>
-  <li><strong><i>Golang</i></strong></li>
+  <li><strong><i>Golang(still learnig)</i></strong></li>
   <ul>
-    <li>⚡Go Fiber(still learnig)</li>
+    <li>⚡Go Fiber</li>
     <li>⚡Echo</li>
   </ul>
   <li><strong><i>Javascript/Node.js</i></strong></li>
