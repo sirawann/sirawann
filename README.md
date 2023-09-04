@@ -33,4 +33,3 @@
     <li>🔥Firebase | Firestore</li>
   </ul>
 </ul>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirawann&show_icons=true&locale=en&layout=compact" alt="sirawann" /></p>
