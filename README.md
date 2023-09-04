@@ -32,4 +32,5 @@
     <li>🍃MongoDb</li>
     <li>🔥Firebase | Firestore</li>
   </ul>
+  <p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirawann&layout=compact)</p>
 </ul>
