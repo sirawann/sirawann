@@ -2,7 +2,7 @@
 
 <br>
 <p>
-  My friends call me search engine becuase I always sherch and solve code problem.
+ My friends call me 'The Search Engine' because I'm always searching for and solving code problems. I'm learning Golang and giving it my best effort. I have a passion for learning Golang, and I hope that one day I'll be able to share my knowledge with the community.
 </p>
 
 <h2>📑 <i>Familiar with</i></h2>
