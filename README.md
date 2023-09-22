@@ -1,9 +1,6 @@
 <h1>✨ <i>Hi, I'm Tong</i> ✨</h1>
 
 <br>
-<p>
- I am a recent graduate of Computer Science at Khon Kaen University. My friends call me 'The Search Engine' because I always search for and solve code problems. I'm learning Golang and giving it my best effort. I have a passion for learning Golang, and one day I hope to be able to share my knowledge with the community.
-</p>
 
 <h2>📑 <i>Familiar with</i></h2>
 <ul>
