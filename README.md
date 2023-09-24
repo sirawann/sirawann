@@ -27,6 +27,6 @@
     <li>🐬MySQL</li>
     <li>🐘PostgreSQL</li>
     <li>🍃MongoDb</li>
-    <li>🔥Firebase | Firestore</li>
+    <li>🔥Firebase</li>
   </ul>
 </ul>
