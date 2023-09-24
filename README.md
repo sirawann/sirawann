@@ -4,7 +4,7 @@
 
 <h2>📑 <i>Familiar with</i></h2>
 <ul>
-  <li><strong><i>Golang(still learnig)</i></strong></li>
+  <li><strong><i>Golang</i></strong></li>
   <ul>
     <li>⚡Go Fiber</li>
     <li>⚡Echo</li>
