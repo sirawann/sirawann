@@ -9,7 +9,7 @@
     <li>⚡Go Fiber</li>
     <li>⚡Echo</li>
   </ul>
-  <li><strong><i>Javascript/Node.js</i></strong></li>
+  <li><strong><i>Javascript</i></strong></li>
   <ul>
     <li>⚛️ReactJs</li>
   </ul>
