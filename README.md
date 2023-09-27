@@ -12,6 +12,7 @@
   <li><strong><i>Javascript</i></strong></li>
   <ul>
     <li>⚛️ReactJs</li>
+    <li>Next.js</li>
   </ul>
   <li><strong><i>Python</i></strong></li>
   <ul>
