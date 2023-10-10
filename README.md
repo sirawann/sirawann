@@ -19,9 +19,9 @@
     <li>🧛🏼Django</li>
     <li>🤖Machine Learning</li>
   </ul>
-  <li><strong><i>Mobile App Development</i></strong></li>
+  <li><strong><i>🥤Java</i></strong></li>
   <ul>
-    <li>🥤Java</li>
+    <li>Spring Boot</li>
   </ul>
   <li><strong><i>Database</i></strong></li>
   <ul>
